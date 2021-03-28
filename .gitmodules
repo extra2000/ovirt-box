@@ -1,0 +1,3 @@
+[submodule "salt/roots/formulas/ovirt-formula"]
+	path = salt/roots/formulas/ovirt-formula
+	url = https://github.com/extra2000/ovirt-formula.git
